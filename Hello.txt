@@ -1,0 +1,1 @@
+将项目同时托管到 Git@OSC 和 GitHub
